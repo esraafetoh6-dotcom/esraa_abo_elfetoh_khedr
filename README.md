@@ -63,13 +63,13 @@ I enjoy exploring data, building predictive models, and creating interactive das
 - Advanced Machine Learning & Model Tuning  
 - Deep Learning / Neural Networks  
 - Advanced NLP & Transformers  
-- Big Data Tools (Spark, Hadoop)  
+ 
 
 ---
 
 ## 📬 Connect With Me  
-- 💼 LinkedIn: *(Add link)*  
-- 📧 Email: *(Optional)*  
+- 💼 LinkedIn: www.linkedin.com/in/esraa-abo-elfetouh-khedr-30761a1b3  
+- 📧 Email: esraafetoh6@gmail.com  
 
 ---
 
