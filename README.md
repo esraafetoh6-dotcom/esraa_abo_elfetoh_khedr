@@ -5,7 +5,7 @@
 
 Turning raw data into actionable insights 📊  
 
-<img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="50%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%"/>
 
 </div>
 
