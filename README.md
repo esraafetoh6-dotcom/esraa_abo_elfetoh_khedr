@@ -5,7 +5,7 @@
 
 Building data-driven insights & analytical solutions 📊✨  
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" width="120"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="55%"/>
 
 </div>
 
