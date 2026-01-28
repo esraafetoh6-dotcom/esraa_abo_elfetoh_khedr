@@ -5,7 +5,7 @@
 
 Building data-driven insights & analytical solutions 📊✨  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="45%"/>
 
 </div>
 
